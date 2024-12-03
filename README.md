@@ -1,2 +1,2 @@
 # vpc
-personal project demonsrating : creating a vpc and delpying using aws 
+personal project demonsrating : creating a vpc and delpoying using aws 
